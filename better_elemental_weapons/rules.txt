@@ -1,0 +1,7 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Better Elemental Weapons
+path = "The Legend of Zelda: Breath of the Wild/Game Mods/Better Elemental Weapons"
+description = Makes every elemental greatsword, sword, and spear have infinite fire/ice/electric power and 4x durability. (By: FireFlyer24, works with my other mods too)
+version = 4
+fsPriority = 100
